@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40efac02-f70d-4418-87c7-891486ca150f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SEKjUp5Y1eRRlzVXa2OOspwD1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Day04\day_train_17\study_twelve" />
+      <recent name="D:\PycharmProjects\Day04\day_train_13\train7" />
+      <recent name="D:\PycharmProjects\Day04" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12\train2" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12\train1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Day04\day_train_13\train8" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12\train5" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12\train3" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12\train2" />
+      <recent name="D:\PycharmProjects\Day04\day_train_12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eighteen_3">
+    <configuration name="19.注册界面" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19.注册界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eighteen_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_train_20/study_eighteen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_train_20/study_eighteen/eighteen_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eighteen_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_train_20/study_eighteen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_train_20/study_eighteen/eighteen_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eighteen_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_train_20/study_eighteen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_train_20/study_eighteen/eighteen_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seventeen_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Day04" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_train_20/seventeen_17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_train_20/seventeen_17/seventeen_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eighteen_3" />
+        <item itemvalue="Python.eighteen_2" />
+        <item itemvalue="Python.eighteen_1" />
+        <item itemvalue="Python.seventeen_1" />
+        <item itemvalue="Python.19.注册界面" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40efac02-f70d-4418-87c7-891486ca150f" name="Default Changelist" comment="" />
+      <created>1688706435625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688706435625</updated>
+      <workItem from="1688706441397" duration="602000" />
+      <workItem from="1688986721774" duration="23000" />
+      <workItem from="1689050011701" duration="4696000" />
+      <workItem from="1689123584416" duration="276000" />
+      <workItem from="1689136419851" duration="3259000" />
+      <workItem from="1689155709091" duration="4321000" />
+      <workItem from="1689223462194" duration="4203000" />
+      <workItem from="1689242652031" duration="16000" />
+      <workItem from="1689244160730" duration="1997000" />
+      <workItem from="1689295604422" duration="1210000" />
+      <workItem from="1689309292796" duration="2311000" />
+      <workItem from="1689329003601" duration="1201000" />
+      <workItem from="1689569252920" duration="3508000" />
+      <workItem from="1689588747774" duration="3015000" />
+      <workItem from="1689641248140" duration="912000" />
+      <workItem from="1689646294640" duration="13000" />
+      <workItem from="1689675324063" duration="2386000" />
+      <workItem from="1689728018098" duration="6243000" />
+      <workItem from="1689761532197" duration="3932000" />
+      <workItem from="1689829804960" duration="1452000" />
+      <workItem from="1689900613893" duration="1283000" />
+      <workItem from="1689914415961" duration="187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1689646305887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1689646305887" />
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1689833957527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1689833957527" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1689833957527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1689833957527" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1689833957527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1689833957527" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1689833957527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1689833957527" />
+    <state width="1002" height="258" key="GridCell.Tab.1.bottom" timestamp="1689228158788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1002" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1689228158788" />
+    <state width="1002" height="258" key="GridCell.Tab.1.center" timestamp="1689228158788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1002" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1689228158788" />
+    <state width="1002" height="258" key="GridCell.Tab.1.left" timestamp="1689228158788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1002" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1689228158788" />
+    <state width="1002" height="258" key="GridCell.Tab.1.right" timestamp="1689228158788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1002" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1689228158788" />
+    <state x="540" y="61" key="SettingsEditor" timestamp="1689052315221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1689052315221" />
+    <state x="869" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1689914415892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="869" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1689914415892" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Day04$19_.coverage" NAME="19.注册界面 Coverage Results" MODIFIED="1689814756145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$9t6.coverage" NAME="9t6 Coverage Results" MODIFIED="1689296815031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$8t8.coverage" NAME="8t8 Coverage Results" MODIFIED="1689246144454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/train8" />
+    <SUITE FILE_PATH="coverage/Day04$3t.coverage" NAME="3t Coverage Results" MODIFIED="1689156587341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train3" />
+    <SUITE FILE_PATH="coverage/Day04$04_.coverage" NAME="04.文本展示 Coverage Results" MODIFIED="1689051852481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$4.coverage" NAME="4他 Coverage Results" MODIFIED="1689156773353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train4" />
+    <SUITE FILE_PATH="coverage/Day04$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1689137706276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_2.coverage" NAME="eleven_2 Coverage Results" MODIFIED="1689310896547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+    <SUITE FILE_PATH="coverage/Day04$t4.coverage" NAME="t4 Coverage Results" MODIFIED="1689138042377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train1" />
+    <SUITE FILE_PATH="coverage/Day04$5t2.coverage" NAME="5t2 Coverage Results" MODIFIED="1689158172251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_5.coverage" NAME="eleven_5 Coverage Results" MODIFIED="1689311208435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+    <SUITE FILE_PATH="coverage/Day04$15_.coverage" NAME="15.对话框 Coverage Results" MODIFIED="1689742879291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$2t5.coverage" NAME="2t5 Coverage Results" MODIFIED="1689139702822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$5t4.coverage" NAME="5t4 Coverage Results" MODIFIED="1689158577092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$5t7.coverage" NAME="5t7 Coverage Results" MODIFIED="1689159257971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$6t2.coverage" NAME="6t2 Coverage Results" MODIFIED="1689223707426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train6" />
+    <SUITE FILE_PATH="coverage/Day04$2t2.coverage" NAME="2t2 Coverage Results" MODIFIED="1689139101661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$eighteen_3.coverage" NAME="eighteen_3 Coverage Results" MODIFIED="1689833943645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_20/study_eighteen" />
+    <SUITE FILE_PATH="coverage/Day04$7t3.coverage" NAME="7t3 Coverage Results" MODIFIED="1689244827610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13" />
+    <SUITE FILE_PATH="coverage/Day04$thirteen_3.coverage" NAME="thirteen_3 Coverage Results" MODIFIED="1689572583409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_thirteen" />
+    <SUITE FILE_PATH="coverage/Day04$03_.coverage" NAME="03.气泡提示 Coverage Results" MODIFIED="1689051438896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$fifteen_3.coverage" NAME="fifteen_3 Coverage Results" MODIFIED="1689676623542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_fifteen" />
+    <SUITE FILE_PATH="coverage/Day04$16_.coverage" NAME="16.输入对话框 Coverage Results" MODIFIED="1689743222648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$4t3.coverage" NAME="4t3 Coverage Results" MODIFIED="1689156902999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train4" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_4.coverage" NAME="eleven_4 Coverage Results" MODIFIED="1689311107982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+    <SUITE FILE_PATH="coverage/Day04$3t2.coverage" NAME="3t2 Coverage Results" MODIFIED="1689156008754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train3" />
+    <SUITE FILE_PATH="coverage/Day04$9t5.coverage" NAME="9t5 Coverage Results" MODIFIED="1689296695449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1689137839113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train1" />
+    <SUITE FILE_PATH="coverage/Day04$07_QTexitEdit.coverage" NAME="07.QTexitEdit Coverage Results" MODIFIED="1689224678654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$2t1.coverage" NAME="2t1 Coverage Results" MODIFIED="1689138904473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$8t5.coverage" NAME="8t5 Coverage Results" MODIFIED="1689245922367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/train8" />
+    <SUITE FILE_PATH="coverage/Day04$fifteen_2.coverage" NAME="fifteen_2 Coverage Results" MODIFIED="1689676292744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_fifteen" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_3.coverage" NAME="eleven_3 Coverage Results" MODIFIED="1689311094706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+    <SUITE FILE_PATH="coverage/Day04$3t4.coverage" NAME="3t4 Coverage Results" MODIFIED="1689156157147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train3" />
+    <SUITE FILE_PATH="coverage/Day04$4t2.coverage" NAME="4t2 Coverage Results" MODIFIED="1689156833166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train4" />
+    <SUITE FILE_PATH="coverage/Day04$twelve_1.coverage" NAME="twelve_1 Coverage Results" MODIFIED="1689570561687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17" />
+    <SUITE FILE_PATH="coverage/Day04$2t3.coverage" NAME="2t3 Coverage Results" MODIFIED="1689139267002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$5t3.coverage" NAME="5t3 Coverage Results" MODIFIED="1689158294339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1689137933994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train1" />
+    <SUITE FILE_PATH="coverage/Day04$QLineEdit.coverage" NAME="QLineEdit Coverage Results" MODIFIED="1689053406634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$3t1.coverage" NAME="3t1 Coverage Results" MODIFIED="1689155925315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train3" />
+    <SUITE FILE_PATH="coverage/Day04$10_.coverage" NAME="10.使用系统的槽函数 Coverage Results" MODIFIED="1689225697473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$9t10.coverage" NAME="9t10 Coverage Results" MODIFIED="1689309729549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$thirteen_1.coverage" NAME="thirteen_1 Coverage Results" MODIFIED="1689572341841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_thirteen" />
+    <SUITE FILE_PATH="coverage/Day04$10t1.coverage" NAME="10t1 Coverage Results" MODIFIED="1689309890932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_ten" />
+    <SUITE FILE_PATH="coverage/Day04$5t6.coverage" NAME="5t6 Coverage Results" MODIFIED="1689158956252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$8t3.coverage" NAME="8t3 Coverage Results" MODIFIED="1689245784373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/train8" />
+    <SUITE FILE_PATH="coverage/Day04$fifteen_4.coverage" NAME="fifteen_4 Coverage Results" MODIFIED="1689677050286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_fifteen" />
+    <SUITE FILE_PATH="coverage/Day04$seventeen_1.coverage" NAME="seventeen_1 Coverage Results" MODIFIED="1689830091674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_20/seventeen_17" />
+    <SUITE FILE_PATH="coverage/Day04$eighteen_1.coverage" NAME="eighteen_1 Coverage Results" MODIFIED="1689830737341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_20/study_eighteen" />
+    <SUITE FILE_PATH="coverage/Day04$17_.coverage" NAME="17.单选框 Coverage Results" MODIFIED="1689743765448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$09_.coverage" NAME="09.信号槽的绑定 Coverage Results" MODIFIED="1689225223433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$9t7.coverage" NAME="9t7 Coverage Results" MODIFIED="1689309421263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$9t4.coverage" NAME="9t4 Coverage Results" MODIFIED="1689296569176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$9t1.coverage" NAME="9t1 Coverage Results" MODIFIED="1689296252216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$02___1_.coverage" NAME="02.窗口处理 (1) Coverage Results" MODIFIED="1689138802808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$13_.coverage" NAME="13.表单布局 Coverage Results" MODIFIED="1689590422373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$fifteen_1.coverage" NAME="fifteen_1 Coverage Results" MODIFIED="1689675636015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_fifteen" />
+    <SUITE FILE_PATH="coverage/Day04$01_pytqt.coverage" NAME="01.第一个pytqt窗口 Coverage Results" MODIFIED="1688706858755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$02_.coverage" NAME="02.窗口处理 Coverage Results" MODIFIED="1689138468090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$10t7.coverage" NAME="10t7 Coverage Results" MODIFIED="1689310286091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_ten" />
+    <SUITE FILE_PATH="coverage/Day04$thirteen_4.coverage" NAME="thirteen_4 Coverage Results" MODIFIED="1689572717735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17/study_thirteen" />
+    <SUITE FILE_PATH="coverage/Day04$8t9.coverage" NAME="8t9 Coverage Results" MODIFIED="1689295716860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/train8" />
+    <SUITE FILE_PATH="coverage/Day04$10t2.coverage" NAME="10t2 Coverage Results" MODIFIED="1689309969773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_ten" />
+    <SUITE FILE_PATH="coverage/Day04$18_.coverage" NAME="18.复选框 Coverage Results" MODIFIED="1689744216991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$10t10.coverage" NAME="10t10 Coverage Results" MODIFIED="1689310507748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_ten" />
+    <SUITE FILE_PATH="coverage/Day04$05_.coverage" NAME="05.图片展示 Coverage Results" MODIFIED="1689052666019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$8t1.coverage" NAME="8t1 Coverage Results" MODIFIED="1689245633817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/train8" />
+    <SUITE FILE_PATH="coverage/Day04$9t2.coverage" NAME="9t2 Coverage Results" MODIFIED="1689296370744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_9" />
+    <SUITE FILE_PATH="coverage/Day04$t5.coverage" NAME="t5 Coverage Results" MODIFIED="1689138132545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train1" />
+    <SUITE FILE_PATH="coverage/Day04$5t1.coverage" NAME="5t1 Coverage Results" MODIFIED="1689158090241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$4t4.coverage" NAME="4t4 Coverage Results" MODIFIED="1689156952272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train4" />
+    <SUITE FILE_PATH="coverage/Day04$11_.coverage" NAME="11.水平布局 Coverage Results" MODIFIED="1689226114608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_1.coverage" NAME="eleven_1 Coverage Results" MODIFIED="1689310754399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+    <SUITE FILE_PATH="coverage/Day04$14_.coverage" NAME="14.布局嵌套 Coverage Results" MODIFIED="1689641367183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$2t4.coverage" NAME="2t4 Coverage Results" MODIFIED="1689139516498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train2" />
+    <SUITE FILE_PATH="coverage/Day04$5t5.coverage" NAME="5t5 Coverage Results" MODIFIED="1689158839506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train5" />
+    <SUITE FILE_PATH="coverage/Day04$08_.coverage" NAME="08.按钮事件 Coverage Results" MODIFIED="1689224929540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Day04$7t1.coverage" NAME="7t1 Coverage Results" MODIFIED="1689244413121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13" />
+    <SUITE FILE_PATH="coverage/Day04$twelve_2.coverage" NAME="twelve_2 Coverage Results" MODIFIED="1689570675260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_17" />
+    <SUITE FILE_PATH="coverage/Day04$eighteen_2.coverage" NAME="eighteen_2 Coverage Results" MODIFIED="1689830942824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_20/study_eighteen" />
+    <SUITE FILE_PATH="coverage/Day04$6t1.coverage" NAME="6t1 Coverage Results" MODIFIED="1689223628695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_12/train6" />
+    <SUITE FILE_PATH="coverage/Day04$eleven_6.coverage" NAME="eleven_6 Coverage Results" MODIFIED="1689314543522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_train_13/study_elevn" />
+  </component>
+</project>
